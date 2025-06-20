@@ -1,0 +1,11 @@
+name : Hamaad Ayub Khan
+on: 
+  push:
+    branches: [main]
+jobs: 
+  demo: 
+    runs-on: ubuntu-latest
+    
+    steps: 
+      - name: Greetings
+        run: echo"Hello this is Hamaad Ayub Khan" 
