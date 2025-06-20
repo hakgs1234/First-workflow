@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     
     steps: 
-      - name: Greetings
-        run: echo"Hello this is Hamaad Ayub Khan" 
+      - name: Greetings 
+        run: echo "Hello this is Hamaad Ayub Khan" 
